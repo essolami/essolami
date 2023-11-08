@@ -6,11 +6,6 @@
 -->
 
 
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -20,9 +15,7 @@
 
 
 <p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Hamza%20%Essolami">「 Google Me 」</a>
-    <br>
+ 
        I am a front end developer from <b>Morocco</b> :bookmark:
     <br>
     <br>
