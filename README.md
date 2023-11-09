@@ -6,34 +6,24 @@
 -->
 
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Essolami</a></b>
-        </samp>
-</h3>
 
 
-<p align="center"> 
- <samp>
-       I am a front end developer from <b>Morocco</b> :bookmark:
-    <br>
-    <br>
-  </samp>
-</p>
 
-<p align="center">
- 
- <a href="https://www.linkedin.com/in/hamza-essolami/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="essolami"/>
- </a>
 
-</p>
-<br />
+
+
+
+
 
 <!-- About Section -->
  # About me
  
+   I am a front end developer from <b>Morocco</b> :bookmark:
+  <br/>
+ 
+ <a href="https://www.linkedin.com/in/hamza-essolami/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="essolami"/>
+ </a>
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -44,9 +34,6 @@
 
 </p>
 
-<br/>
-<br/>
-<br/>
 
 ## Use To Code
 
@@ -76,9 +63,9 @@
   <a href="https://github.com/essolami?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
+
 <hr/>
-<br/>
+
 
 
 
