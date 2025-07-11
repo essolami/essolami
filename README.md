@@ -18,7 +18,7 @@
 <!-- About Section -->
  # About me
  
-   I am a front end developer from <b>Morocco</b>  <a href="https://essolami-portfolio.vercel.app/resume">CHECK ME FROM HERE  </a>  :bookmark:
+   I am a front end developer from <b>Morocco</b>  <a href="https://essolami-portfolio.vercel.app">CHECK ME FROM HERE  </a>  :bookmark:
   <br/>
  
  <a href="https://www.linkedin.com/in/hamza-essolami/" target="_blank">
