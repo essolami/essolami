@@ -16,23 +16,7 @@
 
 
 <!-- About Section -->
- # About me
- 
-   I am a front end developer from <b>Moroccoooo</b>  <a href="https://essolami-portfolio.vercel.app">CHECK ME FROM HERE  </a>  :bookmark:
-  <br/>
- 
- <a href="https://www.linkedin.com/in/hamza-essolami/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="essolami"/>
- </a>
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: essolamih@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here]([https://github.com/essolami](https://essolami-portfolio.vercel.app/contact))
 
-</p>
 
 
 ## Use To Code
